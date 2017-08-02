@@ -1,0 +1,52 @@
+{
+  "Goals" : {
+    "Zy90DT3yY5ZBOlx62PjiTIT8Oig2" : {
+      "-KqEZsg6J-Joy4WNr3Xc" : {
+        "description" : "Description 1",
+        "id" : "-KqEZsg6J-Joy4WNr3Xc",
+        "photoId" : "NONE",
+        "priority" : "Absolutely",
+        "timestamp" : 1501300800000,
+        "title" : "Title 1"
+      },
+      "-KqEZxq7CU-hp2iRXTgW" : {
+        "description" : "Description 2",
+        "id" : "-KqEZxq7CU-hp2iRXTgW",
+        "photoId" : "NONE",
+        "priority" : "Absolutely",
+        "timestamp" : 1497499200000,
+        "title" : "Title 2"
+      },
+      "-KqEaSkVSsjIZ2lkP_p3" : {
+        "description" : "Description 3",
+        "id" : "-KqEaSkVSsjIZ2lkP_p3",
+        "photoId" : "NONE",
+        "priority" : "Absolutely",
+        "timestamp" : 1504031770000,
+        "title" : "Title 3"
+      }
+    }
+  },
+  "Tasks" : {
+    "Zy90DT3yY5ZBOlx62PjiTIT8Oig2" : {
+      "-KqLDldyUsfzutRFDOiq" : {
+        "description" : "Description 2",
+        "duration" : 3600,
+        "id" : "-KqLDldyUsfzutRFDOiq",
+        "latitude" : 0,
+        "longitude" : 0,
+        "timestamp" : 1501214400000,
+        "title" : "Title 2"
+      },
+      "-KqZpD3DsziClbb2n1P9" : {
+        "description" : "Desc 3",
+        "duration" : 3600,
+        "id" : "-KqZpD3DsziClbb2n1P9",
+        "latitude" : 0,
+        "longitude" : 0,
+        "timestamp" : 1501646400000,
+        "title" : "Title 3"
+      }
+    }
+  }
+}
